@@ -1,0 +1,13 @@
+ru\nikitaloh\practice\model\web\ValCursDto.class
+ru\nikitaloh\practice\model\HistoryUserRepository.class
+ru\nikitaloh\practice\service\RateService.class
+ru\nikitaloh\practice\model\UsersDto.class
+ru\nikitaloh\practice\Main.class
+ru\nikitaloh\practice\controller\HistoryController.class
+ru\nikitaloh\practice\model\HistoryUserDao.class
+ru\nikitaloh\practice\model\QueryHistoryDto.class
+ru\nikitaloh\practice\model\web\ConvertRequest.class
+ru\nikitaloh\practice\model\web\ValuteDto.class
+ru\nikitaloh\practice\controller\RateController.class
+ru\nikitaloh\practice\model\web\HttpClientRate.class
+ru\nikitaloh\practice\service\HistoryService.class
