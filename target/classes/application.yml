@@ -1,0 +1,16 @@
+spring.application.name: practices
+server.port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: 7
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: "groupId1"
+      value-deserializer: ru.nikitaloh.practice.kafka.KafkaObjectDeserializer
+
+topic:
+  send-message: topic1
